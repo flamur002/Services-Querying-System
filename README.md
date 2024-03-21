@@ -5,7 +5,7 @@ This Laravel CLI application allows users to query service data based on country
 ## Installation
 
 1. Clone this repository to your local machine:
-git clone https://github.com/flamur002/
+git clone https://github.com/flamur002/Services-Querying-System
 
 2. Navigate to the project directory:
 cd query-services
